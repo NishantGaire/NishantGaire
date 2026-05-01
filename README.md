@@ -29,11 +29,11 @@ I focus on writing clean, practical systems that solve real problems.
 
 - **News Research Tool**  
   A system that ingests multiple news articles, creates embeddings, and allows users to ask questions across them using semantic search.  
-  👉 https://github.com/NishantGaire123/news-research-tool
+  👉 [https://github.com/NishantGaire/News_Research_Tool)]
 
 - **YOLOv8 Object Detection**  
   Real-time traffic sign and signal detection system with a Flask-based web interface and optimized preprocessing pipeline.  
-  👉 https://github.com/NishantGaire123/yolov8-object-detection
+  👉 [(https://github.com/NishantGaire/Object-Detection-Using-YOLO)]
 
 - **Semantic Search Platform (K-Chaiyo)**  
   Backend APIs and embedding-based retrieval system enabling natural language search across jobs, services, and events.(Company Project)
